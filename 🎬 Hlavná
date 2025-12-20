@@ -1,0 +1,24 @@
+{
+  "lists": [
+    {
+      "name": "☕Trendy filmy (Dnes)",
+      "type": "tmdb_url",
+      "url": "https://api.themoviedb.org/3/trending/movie/day"
+    },
+    {
+      "name": "🍿Trendy filmy (Týždeň)",
+      "type": "tmdb_url",
+      "url": "https://api.themoviedb.org/3/trending/movie/week"
+    },
+    {
+      "name": "🗓️Premiéry (Now Playing)",
+      "type": "tmdb_url",
+      "url": "https://api.themoviedb.org/3/movie/now_playing?page=1"
+    },
+    {
+      "name": "📈Populárne filmy",
+      "type": "tmdb_url",
+      "url": "https://api.themoviedb.org/3/movie/popular?page=1"
+    }
+  ]
+}
