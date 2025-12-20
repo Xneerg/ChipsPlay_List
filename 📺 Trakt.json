@@ -1,0 +1,29 @@
+{
+  "lists": [
+    {
+      "name": "1️⃣Trakt – Trending Movies",
+      "type": "trakt_url",
+      "url": "https://api.trakt.tv/movies/trending?limit=50"
+    },
+    {
+      "name": "2️⃣Trakt – Popular Movies",
+      "type": "trakt_url",
+      "url": "https://api.trakt.tv/movies/popular?limit=50"
+    },
+    {
+      "name": "3️⃣Trakt – Most Played Movies",
+      "type": "trakt_url",
+      "url": "https://api.trakt.tv/movies/played?limit=50"
+    },
+    {
+      "name": "4️⃣Trakt – Most Watched Movies",
+      "type": "trakt_url",
+      "url": "https://api.trakt.tv/movies/watched?limit=50"
+    },
+    {
+      "name": "5️⃣Trakt – Most Collected Movies",
+      "type": "trakt_url",
+      "url": "https://api.trakt.tv/movies/collected?limit=50"
+    }
+  ]
+}
