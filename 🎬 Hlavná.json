@@ -19,6 +19,11 @@
       "name": "📈Populárne filmy",
       "type": "tmdb_url",
       "url": "https://api.themoviedb.org/3/movie/popular?page=1"
+    },
+    {
+      "name": "⭐Top seriály (Top Rated)",
+      "type": "tmdb_url",
+      "url": "https://api.themoviedb.org/3/tv/top_rated?page=1"
     }
   ]
 }
