@@ -1,4 +1,3 @@
-
 {
   "lists": [
     {
@@ -22,19 +21,19 @@
       "url": "https://api.themoviedb.org/3/discover/tv?with_watch_providers=8&watch_region=US&sort_by=popularity.desc"
     },
     {
-      "name": "5️⃣ TMDB – Movies Streaming Now (HBO Max)",
+      "name": "5️⃣ TMDB – Movies Streaming Now (Disney+)",
       "type": "tmdb_url",
-      "url": "https://api.themoviedb.org/3/discover/movie?with_watch_providers=384&watch_region=US&sort_by=popularity.desc"
+      "url": "https://api.themoviedb.org/3/discover/movie?with_watch_providers=337&watch_region=US&sort_by=popularity.desc"
     },
     {
-      "name": "6️⃣ TMDB – TV Shows Streaming Now (HBO Max)",
+      "name": "6️⃣ TMDB – Movies Streaming Now (Prime Video)",
       "type": "tmdb_url",
-      "url": "https://api.themoviedb.org/3/discover/tv?with_watch_providers=384&watch_region=US&sort_by=popularity.desc"
+      "url": "https://api.themoviedb.org/3/discover/movie?with_watch_providers=119&watch_region=US&sort_by=popularity.desc"
     },
     {
-      "name": "7️⃣ Trakt – Most Watched Movies (Weekly)",
-      "type": "trakt_url",
-      "url": "https://api.trakt.tv/movies/watched/weekly?limit=50"
+      "name": "7️⃣ TMDB – Movies Streaming Now (Apple TV+)",
+      "type": "tmdb_url",
+      "url": "https://api.themoviedb.org/3/discover/movie?with_watch_providers=350&watch_region=US&sort_by=popularity.desc"
     },
     {
       "name": "8️⃣ Trakt – Most Watched Shows (Weekly)",
