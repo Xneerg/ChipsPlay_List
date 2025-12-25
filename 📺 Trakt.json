@@ -1,5 +1,5 @@
 {
-  "shows_lists": [
+  "lists": [
     {
       "name": "Trakt – Trending Shows",
       "type": "trakt_url",
