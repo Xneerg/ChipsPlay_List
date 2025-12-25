@@ -1,29 +1,24 @@
 {
-  "lists": [
+  "movies_lists": [
     {
-      "name": "☕Trendy filmy (Dnes)",
-      "type": "tmdb_url",
-      "url": "https://api.themoviedb.org/3/trending/movie/day"
+      "name": "Trakt – Trending Movies",
+      "type": "trakt_url",
+      "url": "https://api.trakt.tv/movies/trending?limit=50"
     },
     {
-      "name": "🍿Trendy filmy (Týždeň)",
-      "type": "tmdb_url",
-      "url": "https://api.themoviedb.org/3/trending/movie/week"
+      "name": "Trakt – Most Watched Movies (Weekly)",
+      "type": "trakt_url",
+      "url": "https://api.trakt.tv/movies/watched/weekly?limit=50"
     },
     {
-      "name": "🗓️Premiéry (Now Playing)",
+      "name": "TMDB – Popular Movies",
       "type": "tmdb_url",
-      "url": "https://api.themoviedb.org/3/movie/now_playing?page=1"
+      "url": "https://api.themoviedb.org/3/movie/popular"
     },
     {
-      "name": "📈Populárne filmy",
+      "name": "TMDB – Top Rated Movies",
       "type": "tmdb_url",
-      "url": "https://api.themoviedb.org/3/movie/popular?page=1"
-    },
-    {
-      "name": "⭐Top seriály (Top Rated)",
-      "type": "tmdb_url",
-      "url": "https://api.themoviedb.org/3/tv/top_rated?page=1"
+      "url": "https://api.themoviedb.org/3/movie/top_rated"
     }
   ]
 }
