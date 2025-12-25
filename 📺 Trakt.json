@@ -28,7 +28,7 @@
     {
       "name": "6️⃣ TMDB – Movies Streaming Now (Prime Video)",
       "type": "tmdb_url",
-      "url": "https://api.themoviedb.org/3/discover/movie?with_watch_providers=119&watch_region=US&sort_by=popularity.desc"
+      "url": "https://api.themoviedb.org/3/discover/movie?with_watch_providers=9&watch_region=US&sort_by=popularity.desc"
     },
     {
       "name": "7️⃣ TMDB – Movies Streaming Now (Apple TV+)",
