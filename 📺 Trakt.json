@@ -1,5 +1,5 @@
 {
-  "lists": [
+  "shows_lists": [
     {
       "name": "Trakt – Trending Shows",
       "type": "trakt_url",
@@ -19,6 +19,26 @@
       "name": "TMDB – Top Rated TV Shows",
       "type": "tmdb_url",
       "url": "https://api.themoviedb.org/3/tv/top_rated"
+    },
+    {
+      "name": "TMDB – TV Shows on Netflix",
+      "type": "tmdb_url",
+      "url": "https://api.themoviedb.org/3/discover/tv?with_watch_providers=8&watch_region=US&sort_by=popularity.desc"
+    },
+    {
+      "name": "TMDB – TV Shows on Disney+",
+      "type": "tmdb_url",
+      "url": "https://api.themoviedb.org/3/discover/tv?with_watch_providers=337&watch_region=US&sort_by=popularity.desc"
+    },
+    {
+      "name": "TMDB – TV Shows on Prime Video",
+      "type": "tmdb_url",
+      "url": "https://api.themoviedb.org/3/discover/tv?with_watch_providers=9&watch_region=US&sort_by=popularity.desc"
+    },
+    {
+      "name": "TMDB – TV Shows on Apple TV+",
+      "type": "tmdb_url",
+      "url": "https://api.themoviedb.org/3/discover/tv?with_watch_providers=350&watch_region=US&sort_by=popularity.desc"
     }
   ]
 }
