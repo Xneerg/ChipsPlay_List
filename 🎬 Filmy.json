@@ -3,42 +3,42 @@
     {
       "name": "Trakt – Trending Movies",
       "type": "trakt_url",
-      "url": "https://api.trakt.tv/movies/trending?limit=50"
+      "url": "https://api.trakt.tv/movies/trending?limit=100"
     },
     {
       "name": "Trakt – Most Watched Movies (Weekly)",
       "type": "trakt_url",
-      "url": "https://api.trakt.tv/movies/watched/weekly?limit=50"
+      "url": "https://api.trakt.tv/movies/watched/weekly?limit=100"
     },
     {
       "name": "TMDB – Popular Movies",
       "type": "tmdb_url",
-      "url": "https://api.themoviedb.org/3/movie/popular"
+      "url": "https://api.themoviedb.org/5/movie/popular"
     },
     {
       "name": "TMDB – Top Rated Movies",
       "type": "tmdb_url",
-      "url": "https://api.themoviedb.org/3/movie/top_rated"
+      "url": "https://api.themoviedb.org/5/movie/top_rated"
     },
     {
       "name": "TMDB – Movies on Netflix",
       "type": "tmdb_url",
-      "url": "https://api.themoviedb.org/3/discover/movie?with_watch_providers=8&watch_region=US&sort_by=popularity.desc"
+      "url": "https://api.themoviedb.org/5/discover/movie?with_watch_providers=8&watch_region=US&sort_by=popularity.desc"
     },
     {
       "name": "TMDB – Movies on Disney+",
       "type": "tmdb_url",
-      "url": "https://api.themoviedb.org/3/discover/movie?with_watch_providers=337&watch_region=US&sort_by=popularity.desc"
+      "url": "https://api.themoviedb.org/5/discover/movie?with_watch_providers=337&watch_region=US&sort_by=popularity.desc"
     },
     {
       "name": "TMDB – Movies on Prime Video",
       "type": "tmdb_url",
-      "url": "https://api.themoviedb.org/3/discover/movie?with_watch_providers=9&watch_region=US&sort_by=popularity.desc"
+      "url": "https://api.themoviedb.org/5/discover/movie?with_watch_providers=9&watch_region=US&sort_by=popularity.desc"
     },
     {
       "name": "TMDB – Movies on Apple TV+",
       "type": "tmdb_url",
-      "url": "https://api.themoviedb.org/3/discover/movie?with_watch_providers=350&watch_region=US&sort_by=popularity.desc"
+      "url": "https://api.themoviedb.org/5/discover/movie?with_watch_providers=350&watch_region=US&sort_by=popularity.desc"
     }
   ]
 }
