@@ -1,7 +1,6 @@
 {
-  "lists":
-
-    {
+  "lists"
+  {
       "name": "Trakt – Mystery Movies (Top Rated 1980–Today)",
       "type": "trakt_list",
       "url": "https://trakt.tv/users/hdlists/lists/mystery-movies-top-rated-from-1980-to-today?sort=rank,asc"
