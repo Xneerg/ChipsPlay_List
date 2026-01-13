@@ -1,5 +1,5 @@
 {
-  "lists"
+  "lists" : [
   {
       "name": "Trakt – Mystery Movies (Top Rated 1980–Today)",
       "type": "trakt_list",
