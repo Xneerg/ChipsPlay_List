@@ -1,42 +1,42 @@
 {
   "lists": [
     {
-      "name": "Trakt – Trending Shows",
+      "name": "Trending Shows",
       "type": "trakt_url",
       "url": "https://api.trakt.tv/shows/trending?limit=50"
     },
     {
-      "name": "Trakt – Most Watched Shows (Weekly)",
+      "name": "Most Watched Shows (Weekly)",
       "type": "trakt_url",
       "url": "https://api.trakt.tv/shows/watched/weekly?limit=50"
     },
     {
-      "name": "TMDB – Popular TV Shows",
+      "name": "Popular TV Shows",
       "type": "tmdb_url",
       "url": "https://api.themoviedb.org/3/tv/popular"
     },
     {
-      "name": "TMDB – Top Rated TV Shows",
+      "name": "Top Rated TV Shows",
       "type": "tmdb_url",
       "url": "https://api.themoviedb.org/3/tv/top_rated"
     },
     {
-      "name": "TMDB – TV Shows on Netflix",
+      "name": "TV Shows on Netflix",
       "type": "tmdb_url",
       "url": "https://api.themoviedb.org/3/discover/tv?with_watch_providers=8&watch_region=US&sort_by=popularity.desc"
     },
     {
-      "name": "TMDB – TV Shows on Disney+",
+      "name": "TV Shows on Disney+",
       "type": "tmdb_url",
       "url": "https://api.themoviedb.org/3/discover/tv?with_watch_providers=337&watch_region=US&sort_by=popularity.desc"
     },
     {
-      "name": "TMDB – TV Shows on Prime Video",
+      "name": "TV Shows on Prime Video",
       "type": "tmdb_url",
       "url": "https://api.themoviedb.org/3/discover/tv?with_watch_providers=9&watch_region=US&sort_by=popularity.desc"
     },
     {
-      "name": "TMDB – TV Shows on Apple TV+",
+      "name": "TV Shows on Apple TV+",
       "type": "tmdb_url",
       "url": "https://api.themoviedb.org/3/discover/tv?with_watch_providers=350&watch_region=US&sort_by=popularity.desc"
     }
