@@ -1,49 +1,49 @@
 {
   "lists": [
     {
-      "name": "Trakt – Mystery Movies (Top Rated 1980–Today)",
+      "name": "Mystery Movies (Top Rated 1980–Today)",
       "type": "trakt_url",
       "url": "https://api.trakt.tv/users/hdlists/lists/mystery-movies-top-rated-from-1980-to-today/items",
       "limit": 100
     },
     {
-      "name": "Trakt – Drama Movies (Top Rated 1980–Today)",
+      "name": "Drama Movies (Top Rated 1980–Today)",
       "type": "trakt_url",
       "url": "https://api.trakt.tv/users/hdlists/lists/drama-movies-top-rated-from-1980-to-today/items",
       "limit": 100
     },
     {
-      "name": "Trakt – Children’s Animated Movies (1950–Today)",
+      "name": "Children’s Animated Movies (1950–Today)",
       "type": "trakt_url",
       "url": "https://api.trakt.tv/users/hdlists/lists/children-s-animated-movies-from-1950-to-today/items",
       "limit": 100
     },
     {
-      "name": "Trakt – Superhero Movies (1980–Today)",
+      "name": "Superhero Movies (1980–Today)",
       "type": "trakt_url",
       "url": "https://api.trakt.tv/users/hdlists/lists/superhero-movies-from-1980-to-today/items",
       "limit": 100
     },
     {
-      "name": "Trakt – Family Movies (Top Rated 1980–Today)",
+      "name": "Family Movies (Top Rated 1980–Today)",
       "type": "trakt_url",
       "url": "https://api.trakt.tv/users/hdlists/lists/family-movies-top-rated-from-1980-to-today/items",
       "limit": 100
     },
     {
-      "name": "Trakt – Crazy Plot Twists",
+      "name": "Crazy Plot Twists",
       "type": "trakt_url",
       "url": "https://api.trakt.tv/users/hdlists/lists/crazy-plot-twists/items",
       "limit": 100
     },
     {
-      "name": "Trakt – Based on or Inspired by a True Story",
+      "name": "Based on or Inspired by a True Story",
       "type": "trakt_url",
       "url": "https://api.trakt.tv/users/hdlists/lists/based-on-or-inspired-by-a-true-story/items",
       "limit": 100
     },
     {
-      "name": "Trakt – Outer Space & Space Exploration Movies",
+      "name": "Outer Space & Space Exploration Movies",
       "type": "trakt_url",
       "url": "https://api.trakt.tv/users/hdlists/lists/outer-space-space-exploration-movies/items",
       "limit": 100
