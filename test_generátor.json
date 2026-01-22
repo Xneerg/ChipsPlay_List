@@ -1,0 +1,9 @@
+{
+  "lists": [
+    {
+      "name": "Akčné 2025",
+      "type": "tmdb_url",
+      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?sort_by=popularity.desc&with_genres=28&primary_release_year=2025"
+    }
+  ]
+}
