@@ -1,1 +1,12 @@
-[{"rank":1,"title":"Film ID: 454626","views":1,"tmdb_id":"454626"},{"rank":2,"title":"Film ID: 218","views":1,"tmdb_id":"218"}]
+{
+  "lists": [
+    {
+      "name": "🏆 TOP 50 Najpozeranejších",
+      "type": "tmdb_ids",
+      "ids": [
+        454626,
+        218
+      ]
+    }
+  ]
+}
