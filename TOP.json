@@ -4,8 +4,10 @@
       "name": "🏆 TOP 50 Najpozeranejších",
       "type": "tmdb_ids",
       "ids": [
+        1228246,
         454626,
-        218
+        218,
+        812583
       ]
     }
   ]
