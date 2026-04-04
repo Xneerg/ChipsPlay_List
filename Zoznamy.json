@@ -36,9 +36,9 @@
       "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?with_companies=2251&with_genres=16&region=SK&language=sk-SK&sort_by=popularity.desc"
     },
     {
-      "name": "Blue Sky Studios",
+      "name": "Studios",
       "type": "tmdb_url",
-      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?with_companies=93&with_genres=16&region=SK&language=sk-SK&sort_by=popularity.desc"
+      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?with_companies=3|521|6125|6704|2251|10438|2785&with_genres=16&region=SK&language=sk-SK&sort_by=popularity.desc\n"
     }
   ]
 }
