@@ -1,19 +1,19 @@
 {
   "lists": [
     {
-      "name": "Mystery Movies (Top Rated 1980–Today)",
-      "type": "trakt_url",
-      "url": "https:\/\/api.trakt.tv\/users\/hdlists\/lists\/mystery-movies-top-rated-from-1980-to-today\/items?limit=50"
+      "name": "Detské ",
+      "type": "tmdb_url",
+      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?with_genres=16&region=SK&language=sk-SK&sort_by=popularity.desc\n\n"
     },
     {
-      "name": "Drama Movies (Top Rated 1980–Today)",
-      "type": "trakt_url",
-      "url": "https:\/\/api.trakt.tv\/users\/hdlists\/lists\/drama-movies-top-rated-from-1980-to-today\/items?limit=50"
+      "name": "Pixar",
+      "type": "tmdb_url",
+      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?with_companies=3&with_genres=16&region=SK&language=sk-SK&sort_by=release_date.desc\n\n"
     },
     {
-      "name": "Children’s Animated Movies (1950–Today)",
-      "type": "trakt_url",
-      "url": "https:\/\/api.trakt.tv\/users\/hdlists\/lists\/children-s-animated-movies-from-1950-to-today\/items?limit=50"
+      "name": "Najlepšie Sci-Fi (Roky 2023 – 2026)\n\n",
+      "type": "tmdb_url",
+      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?with_genres=878&primary_release_date.gte=2023-01-01&primary_release_date.lte=2026-12-31&region=SK&language=sk-SK&sort_by=vote_average.desc&vote_count.gte=100\n\n"
     },
     {
       "name": "Superhero Movies (1980–Today)",
