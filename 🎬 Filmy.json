@@ -43,7 +43,7 @@
     {
       "name": "Movie Collection",
       "type": "tmdb_url",
-      "url": "https:\/\/www.themoviedb.org\/list\/1115-movie-collection?utm_source=chatgpt.com"
+      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?with_genres=878&sort_by=popularity.desc&page=1&limit=25"
     }
   ]
 }
