@@ -3,42 +3,47 @@
     {
       "name": "Trending Day",
       "type": "tmdb_url",
-      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie"
+      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?limit=25"
     },
     {
       "name": "Discover",
       "type": "tmdb_url",
-      "url": "https:\/\/api.themoviedb.org\/3\/trending\/movie\/day"
+      "url": "https:\/\/api.themoviedb.org\/3\/trending\/movie\/day?limit=25"
     },
     {
       "name": "Popular Movies",
       "type": "tmdb_url",
-      "url": "https:\/\/api.themoviedb.org\/3\/movie\/popular"
+      "url": "https:\/\/api.themoviedb.org\/3\/movie\/popular?limit=25"
     },
     {
       "name": "Top Rated Movies",
       "type": "tmdb_url",
-      "url": "https:\/\/api.themoviedb.org\/3\/movie\/top_rated"
+      "url": "https:\/\/api.themoviedb.org\/3\/movie\/top_rated?limit=25"
     },
     {
       "name": "Movies on Netflix",
       "type": "tmdb_url",
-      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?with_watch_providers=8&watch_region=US&sort_by=popularity.desc"
+      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?with_watch_providers=8&watch_region=US&sort_by=popularity.desc&limit=25"
     },
     {
       "name": "Movies on Disney+",
       "type": "tmdb_url",
-      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?with_watch_providers=337&watch_region=US&sort_by=popularity.desc"
+      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?with_watch_providers=337&watch_region=US&sort_by=popularity.desc&limit=25"
     },
     {
       "name": "Movies on Prime Video",
       "type": "tmdb_url",
-      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?with_watch_providers=9&watch_region=US&sort_by=popularity.desc"
+      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?with_watch_providers=9&watch_region=US&sort_by=popularity.desc&limit=25"
     },
     {
       "name": "Movies on Apple TV+",
       "type": "tmdb_url",
-      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?with_watch_providers=350&watch_region=US&sort_by=popularity.desc"
+      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?with_watch_providers=350&watch_region=US&sort_by=popularity.desc&limit=25"
+    },
+    {
+      "name": "Movie Collection",
+      "type": "tmdb_url",
+      "url": "https:\/\/www.themoviedb.org\/list\/1115-movie-collection?utm_source=chatgpt.com"
     }
   ]
 }
