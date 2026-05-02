@@ -41,7 +41,7 @@
       "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?with_watch_providers=350&watch_region=US&sort_by=popularity.desc&limit=25"
     },
     {
-      "name": "Movie Collection",
+      "name": "Movie trakt",
       "type": "trakt_url",
       "url": "https:\/\/app.trakt.tv\/discover\/popular?mode=media"
     }
