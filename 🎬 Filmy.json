@@ -42,8 +42,8 @@
     },
     {
       "name": "Movie Collection",
-      "type": "tmdb_url",
-      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?with_genres=878&sort_by=popularity.desc&page=1&limit=25"
+      "type": "trakt_url",
+      "url": "Check out Popular on Trakt! 🔥 https:\/\/app.trakt.tv\/discover\/popular?mode=media"
     }
   ]
 }
