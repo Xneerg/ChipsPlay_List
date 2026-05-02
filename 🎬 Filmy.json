@@ -43,7 +43,7 @@
     {
       "name": "Movie Collection",
       "type": "trakt_url",
-      "url": "Check out Popular on Trakt! 🔥 https:\/\/app.trakt.tv\/discover\/popular?mode=media"
+      "url": "https:\/\/app.trakt.tv\/discover\/popular?mode=media"
     }
   ]
 }
