@@ -39,6 +39,11 @@
       "name": "Movies on Apple TV+",
       "type": "tmdb_url",
       "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?with_watch_providers=350&watch_region=US&sort_by=popularity.desc&limit=25"
+    },
+    {
+      "name": "Popularity",
+      "type": "tmdb_url",
+      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?api_key=YOUR_KEY&sort_by=popularity.desc&vote_count.gte=500&vote_average.gte=7&include_adult=false&limit=200"
     }
   ]
 }
