@@ -43,7 +43,7 @@
     {
       "name": "Popularity",
       "type": "tmdb_url",
-      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?api_key=YOUR_KEY&sort_by=popularity.desc&vote_count.gte=500&vote_average.gte=7&include_adult=false&limit=200"
+      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?with_genres=12|28|35|18|878&region=SK&language=sk-SK&sort_by=popularity.desc&vote_count.gte=500&vote_average.gte=6.5&include_adult=false&limit=200"
     }
   ]
 }
