@@ -29,6 +29,46 @@
         "movie_218",
         "movie_1196067"
       ]
+    },
+    {
+      "name": "⭐ Scooby-Doo! Collection",
+      "type": "tmdb_mixed_ids",
+      "ids": [
+        "movie_17681",
+        "movie_20410",
+        "movie_15601",
+        "movie_30074",
+        "movie_21956",
+        "movie_12902",
+        "movie_24615",
+        "movie_20558",
+        "movie_13355",
+        "movie_13354",
+        "movie_12903",
+        "movie_32916",
+        "movie_45752",
+        "movie_67900",
+        "movie_81900",
+        "movie_119321",
+        "movie_151535",
+        "movie_210769",
+        "movie_203696",
+        "movie_258893",
+        "movie_284995",
+        "movie_302960",
+        "movie_347688",
+        "movie_392536",
+        "movie_409122",
+        "movie_427564",
+        "movie_461054",
+        "movie_484862",
+        "movie_533592",
+        "movie_560066",
+        "movie_721656",
+        "movie_682254",
+        "movie_843906",
+        "movie_1015724"
+      ]
     }
   ]
 }
