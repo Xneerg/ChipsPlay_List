@@ -8,7 +8,7 @@
     {
       "name": "Discover",
       "type": "tmdb_url",
-      "url": "https:\/\/api.themoviedb.org\/3\/trending\/movie\/day?limit=25"
+      "url": "https:\/\/api.themoviedb.org\/3\/trending\/movie\/day?limit=100"
     },
     {
       "name": "Popular Movies",
