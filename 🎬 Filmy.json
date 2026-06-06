@@ -3,7 +3,7 @@
     {
       "name": "Trending Day",
       "type": "tmdb_url",
-      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?limit=25"
+      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?limit=100"
     },
     {
       "name": "Discover",
