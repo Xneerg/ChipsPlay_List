@@ -178,6 +178,39 @@
         "movie_442094",
         "movie_9595"
       ]
+    },
+    {
+      "name": "⭐ James Bond Collection",
+      "type": "tmdb_mixed_ids",
+      "ids": [
+        "movie_646",
+        "movie_657",
+        "movie_658",
+        "movie_660",
+        "movie_667",
+        "movie_668",
+        "movie_681",
+        "movie_253",
+        "movie_682",
+        "movie_691",
+        "movie_698",
+        "movie_699",
+        "movie_700",
+        "movie_36670",
+        "movie_707",
+        "movie_708",
+        "movie_709",
+        "movie_710",
+        "movie_714",
+        "movie_36643",
+        "movie_36669",
+        "movie_36557",
+        "movie_10764",
+        "movie_37724",
+        "movie_206647",
+        "movie_370172",
+        "movie_1184696"
+      ]
     }
   ]
 }
