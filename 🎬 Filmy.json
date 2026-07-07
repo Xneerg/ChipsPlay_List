@@ -23,22 +23,22 @@
     {
       "name": "Movies on Netflix",
       "type": "tmdb_url",
-      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?with_watch_providers=8&watch_region=US&sort_by=popularity.desc&limit=25"
+      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?with_watch_providers=8&watch_region=US&sort_by=popularity.desc&limit=100"
     },
     {
       "name": "Movies on Disney+",
       "type": "tmdb_url",
-      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?with_watch_providers=337&watch_region=US&sort_by=popularity.desc&limit=25"
+      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?with_watch_providers=337&watch_region=US&sort_by=popularity.desc&limit=100"
     },
     {
       "name": "Movies on Prime Video",
       "type": "tmdb_url",
-      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?with_watch_providers=9&watch_region=US&sort_by=popularity.desc&limit=25"
+      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?with_watch_providers=9&watch_region=US&sort_by=popularity.desc&limit=100"
     },
     {
       "name": "Movies on Apple TV+",
       "type": "tmdb_url",
-      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?with_watch_providers=350&watch_region=US&sort_by=popularity.desc&limit=25"
+      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?with_watch_providers=350&watch_region=US&sort_by=popularity.desc&limit=100"
     },
     {
       "name": "Popularity",
