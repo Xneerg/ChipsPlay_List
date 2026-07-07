@@ -13,7 +13,7 @@
     {
       "name": "Najlepšie Sci-Fi",
       "type": "tmdb_url",
-      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?with_genres=878&primary_release_date.gte=2023-01-01&primary_release_date.lte=2026-12-31&region=SK&language=sk-SK&sort_by=vote_average.desc&vote_count.gte=100&limit=25"
+      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?with_genres=878&primary_release_date.gte=2023-01-01&primary_release_date.lte=2026-12-31&region=SK&language=sk-SK&sort_by=vote_average.desc&vote_count.gte=100&limit=100"
     },
     {
       "name": "DreamWorks Animation",
