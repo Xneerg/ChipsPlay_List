@@ -3,7 +3,7 @@
     {
       "name": "Trending Day",
       "type": "tmdb_url",
-      "url": "https:\/\/api.themoviedb.org\/3\/trending\/tv\/day?limit=100"
+      "url": "https:\/\/api.themoviedb.org\/4\/discover\/tv?limit=100&without_origin_country=JP&without_genres=16&without_keywords=anime"
     },
     {
       "name": "Discover",
