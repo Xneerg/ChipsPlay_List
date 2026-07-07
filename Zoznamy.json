@@ -38,7 +38,7 @@
     {
       "name": "Studios",
       "type": "tmdb_url",
-      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?with_companies=3|521|6125|6704|2251|10438|2785&with_genres=16&region=SK&language=sk-SK&sort_by=popularity.desc&limit=25"
+      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?sort_by=popularity.desc&primary_release_year=2025&limit=25"
     },
     {
       "name": "Komédia",
