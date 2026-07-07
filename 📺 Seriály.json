@@ -8,7 +8,7 @@
     {
       "name": "Discover",
       "type": "tmdb_url",
-      "url": "https:\/\/api.themoviedb.org\/3\/discover\/tv?limit=100"
+      "url": "https:\/\/api.themoviedb.org\/3\/discover\/tv?limit=100&without_origin_country=JP&without_genres=16&without_keywords=anime"
     },
     {
       "name": "Popular TV Shows",
