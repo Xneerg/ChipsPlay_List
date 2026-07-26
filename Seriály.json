@@ -3,12 +3,12 @@
     {
       "name": "Trending Day",
       "type": "tmdb_url",
-      "url": "https:\/\/api.themoviedb.org\/3\/discover\/tv?limit=100&without_origin_country=JP&without_genres=16&without_keywords=anime"
+      "url": "https:\/\/api.themoviedb.org\/3\/trending\/tv\/day?limit=100"
     },
     {
       "name": "Discover",
       "type": "tmdb_url",
-      "url": "https:\/\/api.themoviedb.org\/3\/discover\/tv?limit=100&without_origin_country=JP&without_genres=16&without_keywords=anime"
+      "url": "https:\/\/api.themoviedb.org\/3\/discover\/tv?limit=100&sort_by=popularity.desc&vote_count.gte=100&vote_average.gte=6&without_origin_country=JP&without_genres=16,10763,10764,10767&without_keywords=anime"
     },
     {
       "name": "Popular TV Shows",
