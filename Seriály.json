@@ -13,7 +13,7 @@
     {
       "name": "Popular TV Shows",
       "type": "tmdb_url",
-      "url": "https:\/\/api.themoviedb.org\/3\/tv\/popular?limit=100"
+      "url": "https:\/\/api.themoviedb.org\/3\/discover\/tv?sort_by=popularity.desc&without_origin_country=JP&language=sk-SK&limit=100"
     },
     {
       "name": "Top Rated TV Shows",
