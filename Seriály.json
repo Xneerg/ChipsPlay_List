@@ -13,12 +13,12 @@
     {
       "name": "Popular TV Shows",
       "type": "tmdb_url",
-      "url": "https:\/\/api.themoviedb.org\/3\/discover\/tv?sort_by=popularity.desc&without_origin_country=JP&language=sk-SK&limit=100"
+      "url": "https:\/\/api.themoviedb.org\/3\/discover\/tv?sort_by=popularity.desc&without_origin_country=JP&language=sk-SK&limit=200"
     },
     {
       "name": "Top Rated TV Shows",
       "type": "tmdb_url",
-      "url": "https:\/\/api.themoviedb.org\/3\/tv\/top_rated?limit=100"
+      "url": "https:\/\/api.themoviedb.org\/3\/tv\/top_rated?limit=200"
     },
     {
       "name": "TV Shows on Netflix",
@@ -33,12 +33,12 @@
     {
       "name": "TV Shows on Prime Video",
       "type": "tmdb_url",
-      "url": "https:\/\/api.themoviedb.org\/3\/discover\/tv?with_watch_providers=9&watch_region=US&sort_by=popularity.desc&limit=100"
+      "url": "https:\/\/api.themoviedb.org\/3\/discover\/tv?with_watch_providers=9&watch_region=US&sort_by=popularity.desc&limit=200"
     },
     {
       "name": "TV Shows on Apple TV+",
       "type": "tmdb_url",
-      "url": "https:\/\/api.themoviedb.org\/3\/discover\/tv?with_watch_providers=350&watch_region=US&sort_by=popularity.desc&limit=100"
+      "url": "https:\/\/api.themoviedb.org\/3\/discover\/tv?with_watch_providers=350&watch_region=US&sort_by=popularity.desc&limit=200"
     }
   ]
 }
