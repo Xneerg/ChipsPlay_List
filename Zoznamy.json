@@ -31,9 +31,9 @@
       "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?sort_by=popularity.desc&with_genres=10749&primary_release_date.gte=2000-01-01&primary_release_date.lte=2025-12-31&limit=100"
     },
     {
-      "name": "Sony Pictures Animation",
+      "name": "Fantasy",
       "type": "tmdb_url",
-      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?with_companies=2251&with_genres=16&region=SK&language=sk-SK&sort_by=popularity.desc&limit=25"
+      "url": "https:\/\/api.themoviedb.org\/3\/discover\/movie?sort_by=popularity.desc&with_genres=14&primary_release_date.gte=2000-01-01&primary_release_date.lte=2025-12-31&limit=100"
     },
     {
       "name": "Najpopulárnejšie 2025",
