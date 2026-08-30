@@ -352,6 +352,19 @@
         "movie_614479",
         "movie_1291595"
       ]
+    },
+    {
+      "name": "⭐ X-Men Collection",
+      "type": "tmdb_mixed_ids",
+      "ids": [
+        "movie_36657",
+        "movie_36658",
+        "movie_36668",
+        "movie_49538",
+        "movie_127585",
+        "movie_246655",
+        "movie_320288"
+      ]
     }
   ]
 }
