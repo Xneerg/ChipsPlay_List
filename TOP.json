@@ -397,6 +397,21 @@
         "movie_1234821",
         "movie_1714034"
       ]
+    },
+    {
+      "name": "⭐ Star Wars Collection",
+      "type": "tmdb_mixed_ids",
+      "ids": [
+        "movie_11",
+        "movie_1891",
+        "movie_1892",
+        "movie_1893",
+        "movie_1894",
+        "movie_1895",
+        "movie_140607",
+        "movie_181808",
+        "movie_181812"
+      ]
     }
   ]
 }
