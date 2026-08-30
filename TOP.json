@@ -340,6 +340,18 @@
         "movie_69",
         "movie_12508"
       ]
+    },
+    {
+      "name": "⭐ Insidious Collection",
+      "type": "tmdb_mixed_ids",
+      "ids": [
+        "movie_49018",
+        "movie_91586",
+        "movie_280092",
+        "movie_406563",
+        "movie_614479",
+        "movie_1291595"
+      ]
     }
   ]
 }
