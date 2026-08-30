@@ -365,6 +365,24 @@
         "movie_246655",
         "movie_320288"
       ]
+    },
+    {
+      "name": "⭐ The Fast and the Furious Collection",
+      "type": "tmdb_mixed_ids",
+      "ids": [
+        "movie_9799",
+        "movie_584",
+        "movie_9615",
+        "movie_13804",
+        "movie_51497",
+        "movie_82992",
+        "movie_168259",
+        "movie_337339",
+        "movie_384018",
+        "movie_385128",
+        "movie_385687",
+        "movie_755679"
+      ]
     }
   ]
 }
