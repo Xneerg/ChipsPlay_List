@@ -383,6 +383,20 @@
         "movie_385687",
         "movie_755679"
       ]
+    },
+    {
+      "name": "⭐ Jurassic Park Collection",
+      "type": "tmdb_mixed_ids",
+      "ids": [
+        "movie_329",
+        "movie_330",
+        "movie_331",
+        "movie_135397",
+        "movie_351286",
+        "movie_507086",
+        "movie_1234821",
+        "movie_1714034"
+      ]
     }
   ]
 }
